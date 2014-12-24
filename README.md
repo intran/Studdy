@@ -18,7 +18,7 @@ This image shows what happens when the operation cannot be done logically. The b
 
 ![No binary](http://i.imgur.com/URVGHQo.png)
 
-[Final Presentation showing all the milestones](https://www.youtube.com/watch?v=l-lpWqFChjk)
+[Final presentation video](https://www.youtube.com/watch?v=l-lpWqFChjk)
 
 [Milestone 1](https://drive.google.com/file/d/0B2wvpMZu6BU6QXRfVHFZY09JZ00/view?usp=sharing)
 
