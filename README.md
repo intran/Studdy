@@ -20,8 +20,10 @@ The project was split into 4 major milestones: finding a good topic, creating di
 4. [Milestone 4](https://drive.google.com/open?id=0B2wvpMZu6BU6LXZqZHA0cE9SS28&authuser=0)
 
 ## Screenshots
+The image below shows the *login screen* of when starting. The application would use the university's student data to sync the student's classes when logged in. This not only give an easier way to login, but also facilitate the user by not having them remember an extra login information.
 ![Login](http://i.imgur.com/zXYkIJj.png)
 
+The image below shows the *home screen* of the application. 
 ![Home](http://i.imgur.com/Pjubp2i.png)
 
 ![Groups](http://i.imgur.com/HlvY9AH.png)
