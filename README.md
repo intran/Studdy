@@ -14,13 +14,8 @@ The purpose of this project was to create an iOS application to help college stu
 
 The project was split into 4 major milestones: finding a good topic, creating different prototypes, picking and designing a prototype, and user testing.
 
-[Milestone 1](https://drive.google.com/file/d/0B2wvpMZu6BU6QXRfVHFZY09JZ00/view?usp=sharing)
+|[Milestone 1](https://drive.google.com/file/d/0B2wvpMZu6BU6QXRfVHFZY09JZ00/view?usp=sharing)|[Milestone 2](https://drive.google.com/open?id=0B2wvpMZu6BU6Z3hva1FQMm9GTnM&authuser=0)|[Milestone 3](https://drive.google.com/open?id=0B2wvpMZu6BU6MWJTWDJCTGlIR1E&authuser=0)|[Milestone 4](https://drive.google.com/open?id=0B2wvpMZu6BU6LXZqZHA0cE9SS28&authuser=0)|
 
-[Milestone 2](https://drive.google.com/open?id=0B2wvpMZu6BU6Z3hva1FQMm9GTnM&authuser=0)
-
-[Milestone 3](https://drive.google.com/open?id=0B2wvpMZu6BU6MWJTWDJCTGlIR1E&authuser=0)
-
-[Milestone 4](https://drive.google.com/open?id=0B2wvpMZu6BU6LXZqZHA0cE9SS28&authuser=0)
 
 ![Login](http://i.imgur.com/zXYkIJj.png)
 
