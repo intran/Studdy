@@ -36,9 +36,11 @@ The image below shows the **class information page**. Here, the user can look up
 
 ![Info](http://i.imgur.com/ji6FSvd.png)
 
-The image below shows the **join page**
+The image below shows the **join page**. The user can join/leave the group after picking a group from the groups page. The user can also tap on another username to go to their profile page (not shown in the previews) to see if they both share classes with one another.
+
 ![Join](http://i.imgur.com/smXDwPJ.png)
 
-The image below 
+The image below shows when a user **create a group**. The application asks the user a few details before a group can be created. The user can re-use tags to describe the group, or apply new ones. One feature that we did not implement (but wanted to) was the ability for the user to leave the date and time field blank to create a group at the current time rather than in advanced.
+
 ![Create](http://i.imgur.com/4JuRseE.png)
 
