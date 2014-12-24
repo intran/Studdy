@@ -24,15 +24,21 @@ The image below shows the **login screen** of when starting. The application wou
 
 ![Login](http://i.imgur.com/zXYkIJj.png)
 
-The image below shows the **home screen** of the application. 
+The image below shows the **home screen** of the application. Here, the user can go to their profile (not shown in these previews) by pressing the top right corner, exit (top left), and choose a class. Names are hidden for privacy.
 
 ![Home](http://i.imgur.com/Pjubp2i.png)
 
+The image below shows the **groups page** for a certain class. Here, the user can find and sort groups regarding to the class, look up class information, create a group, join or group, or go back to the home screen.
+
 ![Groups](http://i.imgur.com/HlvY9AH.png)
+
+The image below shows the **class information page**. Here, the user can look up specific details regarding the class they are taking. Names are hidden for privacy.
 
 ![Info](http://i.imgur.com/ji6FSvd.png)
 
+The image below shows the **join page**
 ![Join](http://i.imgur.com/smXDwPJ.png)
 
+The image below 
 ![Create](http://i.imgur.com/4JuRseE.png)
 
