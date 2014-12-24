@@ -12,11 +12,14 @@ Members on this project:
 
 The purpose of this project was to create an iOS application to help college students find peers to form and maintain small study groups. It focused on promoting good user-centered design. Jakob Nielsen's heuristic design as well as user input was used to develop this application. The project was coded in Objective C using XCode.
 
-The project was split into 4 major milestones: finding a good topic, creating different prototypes, picking and designing a prototype, and user testing.
+The project was split into 4 major milestones: finding a good topic, creating different prototypes, picking and designing a prototype, and user testing. Each member was tasked to write a milestone, with myself doing the third.
 
-[Milestone 1](https://drive.google.com/file/d/0B2wvpMZu6BU6QXRfVHFZY09JZ00/view?usp=sharing)  [Milestone 2](https://drive.google.com/open?id=0B2wvpMZu6BU6Z3hva1FQMm9GTnM&authuser=0)  [Milestone 3](https://drive.google.com/open?id=0B2wvpMZu6BU6MWJTWDJCTGlIR1E&authuser=0)  [Milestone 4](https://drive.google.com/open?id=0B2wvpMZu6BU6LXZqZHA0cE9SS28&authuser=0)
+1. [Milestone 1](https://drive.google.com/file/d/0B2wvpMZu6BU6QXRfVHFZY09JZ00/view?usp=sharing) 
+2. [Milestone 2](https://drive.google.com/open?id=0B2wvpMZu6BU6Z3hva1FQMm9GTnM&authuser=0)  
+3. [Milestone 3](https://drive.google.com/open?id=0B2wvpMZu6BU6MWJTWDJCTGlIR1E&authuser=0)  
+4. [Milestone 4](https://drive.google.com/open?id=0B2wvpMZu6BU6LXZqZHA0cE9SS28&authuser=0)
 
-
+## Screenshots
 ![Login](http://i.imgur.com/zXYkIJj.png)
 
 ![Home](http://i.imgur.com/Pjubp2i.png)
@@ -28,14 +31,4 @@ The project was split into 4 major milestones: finding a good topic, creating di
 ![Join](http://i.imgur.com/smXDwPJ.png)
 
 ![Create](http://i.imgur.com/4JuRseE.png)
-
-[Final presentation video](https://www.youtube.com/watch?v=l-lpWqFChjk)
-
-[Milestone 1](https://drive.google.com/file/d/0B2wvpMZu6BU6QXRfVHFZY09JZ00/view?usp=sharing)
-
-[Milestone 2](https://drive.google.com/open?id=0B2wvpMZu6BU6Z3hva1FQMm9GTnM&authuser=0)
-
-[Milestone 3](https://drive.google.com/open?id=0B2wvpMZu6BU6MWJTWDJCTGlIR1E&authuser=0)
-
-[Milestone 4](https://drive.google.com/open?id=0B2wvpMZu6BU6LXZqZHA0cE9SS28&authuser=0)
 
