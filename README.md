@@ -18,8 +18,13 @@ This image shows what happens when the operation cannot be done logically. The b
 
 ![No binary](http://i.imgur.com/URVGHQo.png)
 
-[Final Presentation showing all the milestones](https://www.youtube.com/watch?v=l-lpWqFChkj)
+[Final Presentation showing all the milestones](https://www.youtube.com/watch?v=l-lpWqFChjk)
+
 [Milestone 1](https://drive.google.com/file/d/0B2wvpMZu6BU6QXRfVHFZY09JZ00/view?usp=sharing)
+
 [Milestone 2](https://drive.google.com/open?id=0B2wvpMZu6BU6Z3hva1FQMm9GTnM&authuser=0)
+
 [Milestone 3](https://drive.google.com/open?id=0B2wvpMZu6BU6MWJTWDJCTGlIR1E&authuser=0)
+
 [Milestone 4](https://drive.google.com/open?id=0B2wvpMZu6BU6LXZqZHA0cE9SS28&authuser=0)
+
